@@ -2,6 +2,7 @@
 
 - ActiveRecordでDBのバックアップをCSVで取得する
 - 取得したCSVからデータをインポートする
+- db/dump/<timestamp>/ 以下に出力
 
 ## Usage
 
